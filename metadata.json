@@ -1,0 +1,6 @@
+{
+  "name": "ミクのピクセル・ミュージック・ジャーニー",
+  "description": "歌詞と同期してキャラクター（初音ミク）がドット絵の世界を駆け巡る、レトロポップな歌詞連動型ミュージックジャーニーゲーム。TextAlive App APIを使用した本格的な歌詞同期演出が楽しめます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
